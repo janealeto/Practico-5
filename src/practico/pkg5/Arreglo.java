@@ -24,7 +24,7 @@ public class Arreglo {
     
 //Método cuentaVocales, que reciba por parámetro un String y retorne la cantidad de vocales que tiene la cadena
     static public void cuentaVocales(String palabra){
-        String []letraxletra=palabra
+        String []letraxletra=palabra;
                 
 }
 }
